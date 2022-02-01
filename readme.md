@@ -1,0 +1,1 @@
+Extrair e substituir arquivos na pasta do módulo. Trancar o mesmo para evitar que seja atualizado.
